@@ -1,0 +1,30 @@
+.App{
+    margin: 0px;
+    padding: 0px;
+    background-color: plum;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.box{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    margin: auto;
+    text-align: center; 
+    background-color: pink;
+}
+.pickbutton{
+   background-color: rgb(18, 163, 18);
+    margin-top: 300px;
+    height: 30px;
+    width:100px;
+    color: white;
+    border: none white;
+}
